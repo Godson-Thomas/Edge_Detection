@@ -1,3 +1,3 @@
 
 
-<img src="https://github.com/Godson-Thomas/Kernel_Convolution/blob/master/Gaussian_Filter/Gou.JPG" width="700">
+<img src="https://github.com/Godson-Thomas/Edge_Detection/blob/master/Sobel/Output.JPG" width="700">
